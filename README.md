@@ -10,12 +10,17 @@ Backend :
 Node.js, Express and MobgoDB are used for developing backend logic. For the back end to work download the frontend.rar(https://github.com/Ahsan140221/urlshortener/blob/master/backend.rar). Unzip the rar file. Open command prompt in the directory in which the files are extracted. Run the command node app.js and in the browser type (https://localhost:3021).
 
 References :
-https://www.youtube.com/watch?v=5T1YDRWaa3k&t=242s&disable_polymer=true
-https://nodejs.org/en/docs/
-https://material.angular.io/
-https://codeburst.io/creating-custom-url-shortener-with-nodejs-de10bbbb89c7
-https://angular.io/docs
-https://help.github.com/articles/adding-a-file-to-a-repository/
+https://www.youtube.com/watch?v=5T1YDRWaa3k&t=242s&disable_polymer=true .
+
+https://nodejs.org/en/docs/ .
+
+https://material.angular.io/ .
+
+https://codeburst.io/creating-custom-url-shortener-with-nodejs-de10bbbb89c7 .
+
+https://angular.io/docs .
+
+https://help.github.com/articles/adding-a-file-to-a-repository/ .
 
 
 
